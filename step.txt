@@ -1,0 +1,7 @@
+Step:
+
+1. E(PUb, [N1 || IDa])
+2. E(PUa, [N1 || N2])
+3. E(PUb, N2)
+4. E (PUb, E(PRa, Ks))
+
